@@ -1,0 +1,8 @@
+{
+  "name": "customer-catalog",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.11.0"
+  }
+}
